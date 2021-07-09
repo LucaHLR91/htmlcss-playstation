@@ -6,7 +6,9 @@
 
 /* COMMON */
 
-
+.ms_h-80 {
+    height: 80%;
+}
 
 /* HEADER */
 
@@ -26,6 +28,22 @@
 .debug header {
     height: 100px;
     background-color: red;
+}
+
+.debug #logo {
+    height: 20%;
+    padding: 2px;
+}
+
+.debug #logo img {
+    width: 10%;
+    height: 100%;
+}
+
+.debug #search-icon i {
+    display: inline-block;
+    font-size: 25px;
+    padding-left: 25px;
 }
 
 .debug main .jumbotron {
