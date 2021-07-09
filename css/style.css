@@ -23,3 +23,47 @@
 
 /* DEBUG */
 
+.debug header {
+    height: 100px;
+    background-color: red;
+}
+
+.debug main .jumbotron {
+    height: 500px;
+    background-color: royalblue;
+}
+
+.debug #ps_5 {
+    height: 800px;
+    background-color: silver;
+}
+
+.debug #new_releases {
+    height: 500px;
+    background-color: springgreen;
+}
+
+.debug #ex_ps {
+    height: 500px;
+    background-color: saddlebrown;
+}
+
+.debug .ps_services {
+    height: 300px;
+    background-color: slateblue;
+}
+
+.debug #sales {
+    height: 500px;
+    background-color: teal;
+}
+
+.debug #social_media {
+    height: 250px;
+    background-color: wheat;
+}
+
+.debug footer {
+    height: 500px;
+    background-color: #00439C;
+}
