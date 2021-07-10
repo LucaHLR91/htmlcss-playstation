@@ -35,6 +35,7 @@ header {
 /* MAIN */
 
 
+
 /* FOOTER */
 
 
@@ -71,6 +72,12 @@ header {
 .debug .ms_container_jumbo {
     height: 80%;
     background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+}
+
+.debug .ms_container_jumbo_two {
+    height: 80%;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
 }
 
