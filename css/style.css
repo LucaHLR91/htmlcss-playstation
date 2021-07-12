@@ -34,6 +34,45 @@ header {
 
 /* MAIN */
 
+main .jumbotron {
+    /* height: 800px; */
+    /* background-color: royalblue; */
+}
+
+.ms_container_jumbo {
+    height: 80%;
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+}
+
+.ms_container_jumbo_two {
+    height: 80%;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+}
+
+.ms_caption {
+    width: 100%;
+    padding: 50px;
+}
+
+.ms_caption .ms_caption_logo img {
+    width: 100%;
+}
+
+.ms_caption_text {
+    color: white;
+}
+
+.card {
+    width: 60%;
+    border-radius: 20px;
+    overflow: auto;
+}
+
+.card img {
+    width: 100%;
+}
 
 
 /* FOOTER */
@@ -65,8 +104,8 @@ header {
 } */
 
 .debug main .jumbotron {
-    height: 800px;
-    background-color: royalblue;
+    /* height: 800px; */
+    /* background-color: royalblue; */
 }
 
 .debug .ms_container_jumbo {
@@ -119,9 +158,34 @@ header {
     background-color: saddlebrown;
 }
 
-.debug .ps_services {
-    height: 300px;
-    background-color: slateblue;
+.debug .ps_services_one {
+    background-color: #BEBCBB;
+}
+
+.debug .ps_services_two {
+    background-color: #161C3B;
+}
+
+.debug .service-img {
+    width: 50%;
+    padding: 30px;
+}
+
+.debug .service-img img {
+    width: 100%;
+}
+
+.debug .service-img-games {
+    width: 70%;
+}
+
+.debug .service-img-games img {
+    width: 100%;
+}
+
+.debug .service-text {
+    width: 60%;
+    padding: 30px;
 }
 
 .debug #sales {
