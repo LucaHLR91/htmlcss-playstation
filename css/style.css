@@ -163,6 +163,26 @@ main .jumbotron {
 
 /* FOOTER */
 
+footer {
+    background-color: #00439C;
+}
+
+.ms_footer_logo {
+    width: 150px;
+}
+
+.ms_footer_logo img {
+    width: 100%;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: white;
+}
 
 /* MEDIA QUERIES */
 
@@ -293,7 +313,7 @@ main .jumbotron {
     background-color: wheat;
 } */
 
-.debug footer {
+/* .debug footer {
     height: 500px;
     background-color: #00439C;
-}
+} */
