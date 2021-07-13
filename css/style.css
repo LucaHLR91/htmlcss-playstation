@@ -74,6 +74,26 @@ main .jumbotron {
     width: 100%;
 }
 
+#ps_5 .ms_ps5_img {
+    width: 500px;
+}
+
+.ms_ps5_img img {
+    width: 100%;
+}
+
+.ms_ps5_item {
+    width: 150px;
+}
+
+.ms_ps5_item_img {
+    width: 100%;
+}
+
+.ms_ps5_item_img img {
+    width: 100%;
+}
+
 #new_releases {
     background-color: #1F1F1F;
 }
@@ -258,10 +278,10 @@ footer ul li a {
     width: 100%;
 } */
 
-.debug #ps_5 {
+/* .debug #ps_5 {
     height: 800px;
     background-color: silver;
-}
+} */
 
 /* .debug #new_releases {
     height: 500px;
