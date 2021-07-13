@@ -35,18 +35,18 @@ header {
 /* MAIN */
 
 main .jumbotron {
-    /* height: 800px; */
-    /* background-color: royalblue; */
+    height: 900px;
 }
 
 .ms_container_jumbo {
     height: 80%;
     background-image: url(../img/jumbo-bg.png);
-    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .ms_container_jumbo_two {
-    height: 80%;
+    height: 100%;
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
 }
@@ -102,6 +102,20 @@ main .jumbotron {
 .service-text {
     width: 60%;
     padding: 30px;
+}
+
+#social_media h2 {
+    padding: 20px;
+}
+
+#social_media a {
+    width: calc(100% / 4);
+    padding: 20px 0;
+}
+
+#social_media a img {
+    width: 60%;
+    padding: 20px 0;
 }
 
 
@@ -233,7 +247,7 @@ main .jumbotron {
 }
 
 .debug #social_media {
-    height: 250px;
+
     background-color: wheat;
 }
 
