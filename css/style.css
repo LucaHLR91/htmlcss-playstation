@@ -92,6 +92,22 @@ main .jumbotron {
     width: 100%;
 } 
 
+#ex_ps .ms_ex_item {
+    width: 400px;
+}
+
+.ms_ex_item_img {
+    width: 100%;
+}
+
+.ms_ex_item_img img {
+    width: 100%;
+}
+
+.ms_ex_item_text {
+    width: 60%;
+}
+
 .ps_services_one {
     background-color: #BEBCBB;
 }
@@ -232,10 +248,10 @@ main .jumbotron {
     background-color: #1F1F1F;
 } */
 
-.debug #ex_ps {
+/* .debug #ex_ps {
     height: 500px;
     background-color: saddlebrown;
-}
+} */
 
 /* .debug .ps_services_one {
     background-color: #BEBCBB;
