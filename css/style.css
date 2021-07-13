@@ -74,6 +74,24 @@ main .jumbotron {
     width: 100%;
 }
 
+#new_releases {
+    background-color: #1F1F1F;
+}
+
+#new_releases .ms_item {
+    width: 200px;
+} 
+
+#new_releases .ms_item .ms_item_img {
+    width: 100%;
+    border-radius: 20px;
+    overflow: auto;
+} 
+
+#new_releases .ms_item .ms_item_img img {
+    width: 100%;
+} 
+
 .ps_services_one {
     background-color: #BEBCBB;
 }
@@ -201,10 +219,10 @@ main .jumbotron {
     background-color: silver;
 }
 
-.debug #new_releases {
+/* .debug #new_releases {
     height: 500px;
-    background-color: springgreen;
-}
+    background-color: #1F1F1F;
+} */
 
 .debug #ex_ps {
     height: 500px;
@@ -246,10 +264,10 @@ main .jumbotron {
     background-color: teal;
 }
 
-.debug #social_media {
+/* .debug #social_media {
 
     background-color: wheat;
-}
+} */
 
 .debug footer {
     height: 500px;
