@@ -122,6 +122,14 @@ main .jumbotron {
     padding: 30px;
 }
 
+#sales .ms_sales_item {
+    width: 400px;
+}
+
+#sales .ms_sales_item img {
+    width: 100%;
+}
+
 #social_media h2 {
     padding: 20px;
 }
@@ -259,10 +267,10 @@ main .jumbotron {
     padding: 30px;
 } */
 
-.debug #sales {
+/* .debug #sales {
     height: 500px;
     background-color: teal;
-}
+} */
 
 /* .debug #social_media {
 
